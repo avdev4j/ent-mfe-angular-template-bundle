@@ -1,6 +1,6 @@
-code: et-app
+code: et-ng-app
 titles:
-  en: Entando Template MF
-  it: Entando Template MF
+  en: Entando Template MFE Angular
+  it: Entando Template MFE Angular
 group: free
 customUiPath: et-widget.ftl
